@@ -1,0 +1,14 @@
+E:\APP\Teste\RestTeste\RestTeste\bin\Debug\netcoreapp2.1\RestTeste.deps.json
+E:\APP\Teste\RestTeste\RestTeste\bin\Debug\netcoreapp2.1\RestTeste.runtimeconfig.json
+E:\APP\Teste\RestTeste\RestTeste\bin\Debug\netcoreapp2.1\RestTeste.runtimeconfig.dev.json
+E:\APP\Teste\RestTeste\RestTeste\bin\Debug\netcoreapp2.1\RestTeste.dll
+E:\APP\Teste\RestTeste\RestTeste\bin\Debug\netcoreapp2.1\RestTeste.pdb
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.csprojAssemblyReference.cache
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.csproj.CoreCompileInputs.cache
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.RazorAssemblyInfo.cache
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.RazorAssemblyInfo.cs
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.AssemblyInfoInputs.cache
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.AssemblyInfo.cs
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.RazorTargetAssemblyInfo.cache
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.dll
+E:\APP\Teste\RestTeste\RestTeste\obj\Debug\netcoreapp2.1\RestTeste.pdb
